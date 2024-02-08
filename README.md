@@ -13,7 +13,7 @@ pip install -U pip wheel setuptools
 pip install -r requirements.txt
 ```
 
-# Encryption Algorithms 
+## Encryption Algorithms 
 
 Below you can find a short description of each algorithm:
 
