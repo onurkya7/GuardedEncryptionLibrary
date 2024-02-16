@@ -37,4 +37,8 @@ Below you can find a short description of each algorithm:
 - If you find any issues with the project, you can report them on [GitHub Issues](https://github.com/onurkya7/GuardedEncryptionLibrary/issues).
 - If you'd like to contribute to the project, you can open a [Pull Request](https://github.com/onurkya7/GuardedEncryptionLibrary/pulls).
 
+## License
+
+Our project is licensed under the [MIT License](LICENSE).
+
 
